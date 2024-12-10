@@ -9,6 +9,12 @@
 
 Project Title - Sales Performance Dashboard
 
+![Screenshot (1383)](https://github.com/user-attachments/assets/40ae8e60-483c-4c9a-b71f-1f765ee43045)
+
+
+
+
+
 1) Objective: The main objective of this Power BI dashboard project is to provide insightful and actionable analysis on the sales performance across various dimensions. The dashboard aims to help stakeholders make informed decisions by displaying key metrics such as total sales, transactions, operating margin, operating profit, units sold, and pricing trends. It also provides a detailed breakdown of these metrics by product, retailer, region, sales method, and city, enabling better performance tracking and strategic planning.
 
 2) Key Activities:
